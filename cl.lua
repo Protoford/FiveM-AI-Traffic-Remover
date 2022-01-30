@@ -1,5 +1,7 @@
--- change these to your liking :) 
--- (Ped frequency is the AI's walking Etc. and Traffic freq is the ammount of parked or driving vehicles)
+-- change the config table variable values to your liking.
+-- Frequencies are the numbers about. 
+-- Densities are the gross amounts.
+
 local config = {
     pedDensity = 0.8,
     pedFrequency = 1.0,
